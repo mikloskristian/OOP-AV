@@ -3,15 +3,23 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AV2-1-Uvod", "AV2-1-Uvod.csproj", "{2DA16F8B-EB7F-4343-B08A-D70E193FA496}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AV2-1-Uvod", "AV2-1-Uvod.csproj", "{2DA16F8B-EB7F-4343-B08A-D70E193FA496}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AV2-2-Preopterecivanje", "..\AV2-2-Preopterecivanje\AV2-2-Preopterecivanje.csproj", "{AFC2B9B3-4074-4C59-AB22-9A318E3FBB5A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AV2-2-Preopterecivanje", "..\AV2-2-Preopterecivanje\AV2-2-Preopterecivanje.csproj", "{AFC2B9B3-4074-4C59-AB22-9A318E3FBB5A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AV3", "..\AV3\AV3.csproj", "{03BA6235-2EC6-4B38-8413-5BAB889E5C3B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AV3", "..\AV3\AV3.csproj", "{03BA6235-2EC6-4B38-8413-5BAB889E5C3B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AV4-1-Uvod", "..\AV4-1-Uvod\AV4-1-Uvod.csproj", "{33414813-A733-40A2-B8FA-81E6569658BD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AV4-1-Uvod", "..\AV4-1-Uvod\AV4-1-Uvod.csproj", "{33414813-A733-40A2-B8FA-81E6569658BD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AV4-2-Ovisnosti", "..\AV4-2-Ovisnosti\AV4-2-Ovisnosti.csproj", "{04364C7B-57C0-4E99-8474-2A70E5A6C7B9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AV4-2-Ovisnosti", "..\AV4-2-Ovisnosti\AV4-2-Ovisnosti.csproj", "{04364C7B-57C0-4E99-8474-2A70E5A6C7B9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AV5-1-Uvod", "..\AV5\AV5-1-Uvod.csproj", "{33303616-C045-4A53-8869-F15DB357994A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AV5-2-Try-Catch-Throw", "..\AV5-2-Nastavak\AV5-2-Try-Catch-Throw.csproj", "{AD3F3795-CB73-41B0-81CB-53734142A550}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AV5-3-Exceptions-i-Generic", "..\AV5-3\AV5-3-Exceptions-i-Generic.csproj", "{81544757-60EC-46B0-BB2A-F3673438E688}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AV7", "..\AV7\AV7.csproj", "{4236FEA7-9584-46B9-8E01-3F7D6287D33E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +47,22 @@ Global
 		{04364C7B-57C0-4E99-8474-2A70E5A6C7B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{04364C7B-57C0-4E99-8474-2A70E5A6C7B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{04364C7B-57C0-4E99-8474-2A70E5A6C7B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33303616-C045-4A53-8869-F15DB357994A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33303616-C045-4A53-8869-F15DB357994A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33303616-C045-4A53-8869-F15DB357994A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33303616-C045-4A53-8869-F15DB357994A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD3F3795-CB73-41B0-81CB-53734142A550}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD3F3795-CB73-41B0-81CB-53734142A550}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD3F3795-CB73-41B0-81CB-53734142A550}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD3F3795-CB73-41B0-81CB-53734142A550}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81544757-60EC-46B0-BB2A-F3673438E688}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81544757-60EC-46B0-BB2A-F3673438E688}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81544757-60EC-46B0-BB2A-F3673438E688}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81544757-60EC-46B0-BB2A-F3673438E688}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4236FEA7-9584-46B9-8E01-3F7D6287D33E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4236FEA7-9584-46B9-8E01-3F7D6287D33E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4236FEA7-9584-46B9-8E01-3F7D6287D33E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4236FEA7-9584-46B9-8E01-3F7D6287D33E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
